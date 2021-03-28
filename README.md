@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python frameworks for data science
+- 👀 I’m interested in machine learning and quantum computers
+- 🌱 I’m currently learning python frameworks for data science and I will be learning about quantum computers after some background in probability and statistics
 - 📫 Instagram: @ibrahiimseel / Twitter: @ibrahimsel_
