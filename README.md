@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in
 - 🌱 I’m currently learning to learn
 - 📫 Instagram: @ibrahiimseel / Twitter: @ibrahimsel_
