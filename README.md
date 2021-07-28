@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
 - 👀 I’m interested in
 - 🌱 I’m currently learning
-- 📫 Instagram: @ibrahiimseel / Twitter: @ibrahimsel_
+- 📫 Instagram: @ibrahimsel_ / Twitter: @ibrahimsel_
