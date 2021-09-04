@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in
-- 🌱 I’m currently learning
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Unity Engine and C#
 - 📫 Instagram: @ibrahimsel_ / Twitter: @ibrahimsel_
