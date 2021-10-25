@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Embedded C
+- 🌱 I’m currently learning Embedded C and AVR Assembly
 - 📫 Instagram: @ibrahimsel_ / Twitter: @ibrahimsel_
