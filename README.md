@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in
-- 🌱 I’m currently learning
+- 👀 I’m interested in automation systems and IoT
+- 🌱 I’m currently learning Rust for Embedded Systems
 - 📫 Instagram: @ibrahimsel_
