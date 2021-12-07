@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
 - 👀 I’m interested in automation systems and IoT
-- 🌱 I’m currently learning The Fundamentals of Electronic Circuits, Rust, C and C++ for Embedded Systems
+- 🌱 I’m currently learning The Fundamentals of Electric Circuits, Rust, C and C++ for Embedded Systems
 - 📫 Instagram: @ibrahimsel_
