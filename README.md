@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in automation systems and IoT
-- 🌱 I’m currently learning The Fundamentals of Electric Circuits, Python, Rust, C and C++ for Embedded Systems
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Python, C++ and OpenCV
 - 📫 Instagram: @ibrahimsel_
