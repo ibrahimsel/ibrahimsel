@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Python, C++ and OpenCV
+- 👀 I’m interested in Backend Engineering
+- 🌱 I’m currently learning Javascript, Node.js and Computer Networks
 - 📫 Instagram: @ibrahimsel_
