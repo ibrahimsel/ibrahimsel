@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in
+- 🌱 I’m currently learning
 - 📫 Instagram: @ibrahimsel_
