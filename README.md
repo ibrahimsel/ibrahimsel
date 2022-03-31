@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in
-- 🌱 I’m currently learning
-- 📫 Instagram: @ibrahimsel_
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning OpenCV
