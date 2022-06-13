@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning OpenCV
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Unity
