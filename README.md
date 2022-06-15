@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in
+- 🌱 I’m currently learning
