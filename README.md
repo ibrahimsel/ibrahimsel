@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in frontend development and web design in general
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in
+- 🌱 I’m currently learning
