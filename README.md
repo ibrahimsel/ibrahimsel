@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in
-- 🌱 I’m currently learning
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently learning about ROS, Autonomous Vehicles, Embedded Systems, Hardware Design
