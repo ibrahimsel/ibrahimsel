@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ibrahimsel
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning about ROS, Autonomous Vehicles, Embedded Systems, Hardware Design
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimsel)](https://github.com/ryo-ma/github-profile-trophy)
